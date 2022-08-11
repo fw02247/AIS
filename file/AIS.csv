@@ -1,0 +1,9 @@
+AIS,时间,设备,信息来源,报文条数,报文序列数,报文识别码,信道指示,数据
+"!ABVDM,1,1,3,A,169DvlgP1R8KPtvFBfOCt3?h0@RT,0*03
+","2020-11-3 0:00:00,",SAAB,他船信息,1,1,3,A,169DvlgP1R8KPtvFBfOCt3?h0@RT
+"!AIVDM,1,1,,A,B6:lOah0FB2n5B4HEqfBQm;SQP06,0*62
+","2020-11-3 0:00:00,",船载设备,他船信息,1,1,,A,B6:lOah0FB2n5B4HEqfBQm;SQP06
+"!AIVDM,1,1,,B,B6:lOah0FB2n5B4HEqfBQm;SQP06,0*61
+","2020-11-3 0:00:00,",船载设备,他船信息,1,1,,B,B6:lOah0FB2n5B4HEqfBQm;SQP06
+"!AIVDM,1,1,,A,B6:aWtP0CR2o954HJR@O;wc6;P06,0*15
+","2020-11-3 0:00:00,",船载设备,他船信息,1,1,,A,B6:aWtP0CR2o954HJR@O;wc6;P06
